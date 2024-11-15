@@ -13,7 +13,7 @@
 ---
 
 ## Overview
-This is a React-based web application designed to allow users to view a list of profiles and explore their addresses interactively on a map. The application integrates dynamic mapping services (Google Maps API or Mapbox) to visually represent the geographical locations of each profile.
+This is a React-based web application designed to allow users to view a list of profiles and explore their addresses interactively on a map. The application integrates dynamic mapping services (Google Maps API) to visually represent the geographical locations of each profile.
 
 ---
 
@@ -65,3 +65,32 @@ project-root/
 │   └── styles/
 │       └── global.css (Global styles for the application)
 └── README.md (Documentation for the project)
+
+## Setup Instructions
+1. **Clone the repository**:
+   ```bash
+   git clone <repository-url>
+  
+
+2. **Navigate to the project directory:**:
+Change your working directory to the project folder:
+   ```bash
+   cd project-root
+
+3. **Install dependencies:**:
+Install all the required dependencies for the project:
+   ```bash
+   npm install
+
+4. **Start the development server:**
+Launch the development server to view the application locally:
+   ```bash
+  npm start
+
+## Tech Stack
+- **Frontend Framework**: React  
+- **Styling**: Tailwind CSS  
+- **Map Integration**: Google Maps API / Mapbox  
+- **State Management**: React Context API  
+- **Backend**: JSON server (mock API for profile data) or integrate a custom backend  
+
