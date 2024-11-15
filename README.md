@@ -30,10 +30,10 @@ This is a React-based web application designed to allow users to view a list of 
 
 ## Screenshots
 ### Main Profile List Page
-![Main Profile List Page](./path/to/screenshot1.png)
+![Map View](https://github.com/deepak9236/Profile-Map/raw/main/UI1.png)
 
 ### Interactive Map with Profile Marker
-![Map View](./path/to/screenshot2.png)
+![Map View](https://github.com/deepak9236/Profile-Map/raw/main/UI2.png)
 
 ---
 
