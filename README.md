@@ -7,8 +7,6 @@
 4. [Folder Structure](#folder-structure)  
 5. [Setup Instructions](#setup-instructions)  
 6. [Tech Stack](#tech-stack)  
-7. [Functionality](#functionality)  
-8. [Future Enhancements](#future-enhancements)  
 
 ---
 
@@ -65,27 +63,31 @@ project-root/
 │   └── styles/
 │       └── global.css (Global styles for the application)
 └── README.md (Documentation for the project)
+```
 
 ## Setup Instructions
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-  
+   ```
 
 2. **Navigate to the project directory:**:
 Change your working directory to the project folder:
    ```bash
    cd project-root
+   ```
 
 3. **Install dependencies:**:
 Install all the required dependencies for the project:
    ```bash
    npm install
+   ```
 
 4. **Start the development server:**
 Launch the development server to view the application locally:
    ```bash
-  npm start
+     npm start
+   ```
 
 ## Tech Stack
 - **Frontend Framework**: React  
